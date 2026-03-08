@@ -1,42 +1,40 @@
-Guía de estudio de la asignatura Programación Orientada a Objetos
-=================================================================
+Programación Orientada a Objetos - Guía 2026
+============================================
 
-Destinado a estudiantes de la carrera Ing. Informática de la Universidad Blas Pascal.
-
+Materia de la carrera de Ing. Informática de la Universidad Blas Pascal.
 
 :Profesor: Dr. Ing. César Osimani
 :Correo: cesarosimani@gmail.com
 :Asignatura: Programación Orientada a Objetos
 :Fecha: Marzo a junio de 2026
 
+Enfoque y objetivos
+===================
+
+Este curso se trabaja con una modalidad cercana a un entorno laboral real:
+equipos, prácticas profesionales y un proyecto integrador completo.
+
+Objetivos principales:
+
+- Diseñar software orientado a objetos en C++.
+- Construir un proyecto real con frontend, backend e infraestructura.
+- Usar herramientas actuales de la industria (GitHub, VS Code, Qt, Copilot).
+- Desarrollar autonomía para aprender con documentación técnica.
+
 Clases 2026
 ===========
 
-Las clases se publican el dia de dictado. Aqui se listan solo las clases ya realizadas.
+Las clases se publican el día de dictado. Aquí se listan solo las clases ya realizadas.
 
 - `Clase 01 - 9 de marzo de 2026 <Clase01.rst>`_
 
-:Temas principales de la asignatura: 
-		- Espacio de nombres
-		- inline y const
-		- std, vector, string
-		- Aritmética de punteros
-		- Funciones genéricas
-		- Herencia y herencia múltiple
-		- Polimorfismo
-		- Funciones virtuales
-		- Clases abstractas
-		- Modificador friend
-		- Biblioteca Qt
-			- Uso de documentación
-			- slots y signals
-			- QtNetwork
-			- Interfaz gráfica de usuario (widgets, layouts, etc.)
-			- QPainter y captura de eventos del teclado y del mouse
-			- QTimer
-			- QtDesigner
-		- Base de datos (SELECT e INSERT).
-		- Resolver los problemas consultando documentación técnica de distintas fuentes
+Temas principales
+=================
+
+- Fundamentos de C++: espacio de nombres, const, punteros.
+- Diseño OO: clases, encapsulamiento, herencia, polimorfismo, virtuales.
+- Qt: interfaces gráficas, signals/slots, networking, eventos, Qt Designer.
+- Integración con bases de datos y resolución de problemas con documentación técnica.
 
 
 
