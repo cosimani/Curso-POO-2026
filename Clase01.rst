@@ -19,9 +19,6 @@ Registro en video de algunos temas de la clase de hoy
 
 `Library, Librería, Biblioteca 2021 <https://www.youtube.com/watch?v=k9ZZSSWuX6E>`_
 
-`std C y std C++ 2021 <https://www.youtube.com/watch?v=GrOLHLHcZqg>`_
-
-
 
 Concepto general de la materia
 ==============================
@@ -323,28 +320,6 @@ Seleccionar:
 
 Win64 OpenSSL v3.x
 
-
-Biblioteca estándar de C++
-==========================
-
-La biblioteca estándar de C++ se encuentra en el **espacio de nombres ``std``**.
-
-Ejemplos:
-
-.. code-block:: cpp
-
-    #include <iostream>
-
-    std::cout << "Hola mundo" << std::endl;
-
-
-Algunos ejemplos de cabeceras de la biblioteca estándar:
-
-.. code-block:: cpp
-
-    #include <vector>
-    #include <string>
-    #include <iostream>
 
 
 Próximos pasos
