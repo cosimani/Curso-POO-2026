@@ -1,6 +1,4 @@
-﻿.. -*- coding: utf-8 -*-
-
-Clase 02 - 11 de marzo de 2026
+﻿Clase 02 - 11 de marzo de 2026
 =============================
 
 
