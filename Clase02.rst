@@ -13,9 +13,6 @@ Registro en video de algunos temas de la clase de hoy
 
 `std namespace vector list 2022 <https://www.youtube.com/watch?v=7ORVHLxFvRM>`_ 
 
-`vector 2021 <https://www.youtube.com/watch?v=mUWIo9uKW5c>`_ 
-
-
 
 Biblioteca estándar de C++
 ==========================
