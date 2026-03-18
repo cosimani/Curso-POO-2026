@@ -37,19 +37,22 @@ Actividad principal de hoy
 
 Cada equipo debe dejar documentado y validado lo siguiente:
 
-1) Definición del proyecto integrador
-	- Nombre del proyecto.
-   - Descripción general.
-   - Servicios que se utilizarán, por ejemplo, OpenAI, Gemini, qué VPS se usará, etc.
+**1- Definición del proyecto integrador**
 
-2) Repositorio y roles
-   - Repo en GitHub con el docente agregado.
-   - Roles iniciales (backend, frontend, desktop, infra).
-   - Rama principal estable.
+- Nombre del proyecto.
+- Descripción general.
+- Servicios que se utilizarán, por ejemplo, OpenAI, Gemini, qué VPS se usará, etc.
 
-3) Plan técnico inicial
-   - Stack: FastAPI + MySQL + phpMyAdmin + Docker.
-   - Autenticación: JWT y hashing con bcrypt.
+**2- Repositorio y roles**
+
+- Repo en GitHub con el docente agregado.
+- Roles iniciales (backend, frontend, desktop, infra).
+- Rama principal estable.
+
+**3- Plan técnico inicial**
+
+- Stack: FastAPI + MySQL + phpMyAdmin + Docker.
+- Autenticación: JWT y hashing con bcrypt.
 
 
 Preparar para la próxima clase
@@ -61,26 +64,31 @@ Además, deben poder abrir el servidor desde VS Code y trabajar directo en el VP
 Checklist técnico
 ^^^^^^^^^^^^^^^^^
 
-1) Acceso al servidor
-   - Usuario creado con permisos de sudo.
-   - Acceso por SSH funcionando.
+**1- Acceso al servidor**
 
-2) VS Code conectado por SSH
-   - Extensión Remote - SSH configurada.
-   - Conexión exitosa al servidor.
+- Usuario creado con permisos de sudo.
+- Acceso por SSH funcionando.
 
-3) Herramientas base instaladas en el VPS
-   - Git
-   - Docker y Docker Compose
+**2- VS Code conectado por SSH**
 
-4) Stack backend listo para iniciar
-   - FastAPI creado en contenedor.
-   - MySQL y phpMyAdmin en Docker.
-   - Variables de entorno y red Docker básica.
+- Extensión Remote - SSH configurada.
+- Conexión exitosa al servidor.
 
-5) Seguridad inicial
-   - JWT para autenticación.
-   - Hashing de contraseña con bcrypt.
+**3- Herramientas base instaladas en el VPS**
+
+- Git
+- Docker y Docker Compose
+
+**4- Stack backend listo para iniciar**
+
+- FastAPI creado en contenedor.
+- MySQL y phpMyAdmin en Docker.
+- Variables de entorno y red Docker básica.
+
+**5- Seguridad inicial**
+
+- JWT para autenticación.
+- Hashing de contraseña con bcrypt.
 
 
 Entregables para la próxima clase
