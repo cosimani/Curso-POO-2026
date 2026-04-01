@@ -218,23 +218,27 @@ Se debe implementar un mecanismo propio de:
   
 - Interfaz gráfica
 
-	- Debe existir una barra superior (tipo menú o toolbar) sobre el lienzo
-	- Incluir un botón Guardar con estilo visual tipo Metro de Windows
+  - Debe existir una barra superior (tipo menú o toolbar) sobre el lienzo
+  - Incluir un botón Guardar con estilo visual tipo Metro de Windows
 
 - Implementar un endpoint en el VPS que permita:
 
   - Guardar el estado del dibujo
   - Recuperar el dibujo actual
   - Funcionalidad:
+
     - Al presionar Guardar, se envía el dibujo al servidor
     - Al iniciar la aplicación:
+
       - Se debe recuperar el dibujo almacenado
       - Permitir continuar editando
       - Colaboración en tiempo real
       - El dibujo es compartido entre los integrantes del equipo
       - Reglas:
+
         - Si un usuario guarda → actualiza el estado en el servidor
         - Los demás usuarios deben poder:
+
           - Ver los cambios realizados por otros
           - Sin perder lo que están dibujando localmente
 
@@ -243,8 +247,8 @@ Se debe implementar un mecanismo propio de:
 
 - Se debe implementar una estrategia de:
 
-	- Fusión de trazos (merge)
-	- O modelo incremental de dibujo
+  - Fusión de trazos (merge)
+  - Modelo incremental de dibujo
 
 Arquitectura (obligatoria)
 --------------------------
