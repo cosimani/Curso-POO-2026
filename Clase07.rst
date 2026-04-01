@@ -243,6 +243,7 @@ Se debe implementar un mecanismo propio de:
           - Sin perder lo que están dibujando localmente
 
       - Condición clave:
+      
         - No se debe perder información al guardar
 
 - Se debe implementar una estrategia de:
