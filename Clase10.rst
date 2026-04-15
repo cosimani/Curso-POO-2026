@@ -27,6 +27,7 @@ Registro en video de algunos temas de la clase de hoy
 `Preprocesador y guardían de inclusión múltiple 2023 <https://youtu.be/75RIKDem8NI>`_
 
 
+-----------------------------------
 
 
 
@@ -114,7 +115,7 @@ Para obtener el punto restante, deberán resolver en vivo **uno** de estos ejerc
 
 
 
-
+-----------------------------------
 
 
 
