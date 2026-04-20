@@ -8,6 +8,8 @@
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+`Login con QtDesigner 2026 <https://youtu.be/rcNz_rKD7PQ>`_
+
 `Array como parámetro QTextEdit Preprocesador Guardián 2025 <https://youtu.be/RThbIuZvrJQ>`_
 
 `Login en empty project 2025 <https://youtu.be/Gdo6NcdOuPo>`_
@@ -163,7 +165,8 @@ Ejercicio 06 - Login con QtDesigner
 
 - Replicar el ejemplo del login en QtDesigner
 - Grabar un video explicando el desarrollo de esta aplicación y subirlo a Youtube como No listado
-- El video referencia es: `Login con QtDesigner 2025 <https://youtu.be/9Z208vj-jCw>`_
+- Video referencia de 2026: `Login con QtDesigner 2026 <https://youtu.be/rcNz_rKD7PQ>`_
+- Video referencia de 2025: `Login con QtDesigner 2025 <https://youtu.be/9Z208vj-jCw>`_
 
 
 
