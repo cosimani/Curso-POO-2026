@@ -179,7 +179,7 @@ Enumeraciones
 
 
 
-`Rúbrica para Trabajo - <https://docs.google.com/spreadsheets/d/1hIZHseh0gT1SujRvPCBrctL8YzdA9tgLtqfP3rcKYeo/edit?usp=drive_link>`_ 
+`Rúbrica para Trabajo <https://docs.google.com/spreadsheets/d/1hIZHseh0gT1SujRvPCBrctL8YzdA9tgLtqfP3rcKYeo/edit?usp=drive_link>`_ 
 
 
 
