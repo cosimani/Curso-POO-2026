@@ -97,5 +97,24 @@ Ejercicio 10 - T-Rex Extremo
 
 
 
-`Rúbrica para Trabajo Integrador <https://docs.google.com/spreadsheets/d/1hIZHseh0gT1SujRvPCBrctL8YzdA9tgLtqfP3rcKYeo/edit?usp=drive_link>`_ 
+Próximos pasos para cerrar la asignatura
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Miércoles 20 de mayo cada equipo presenta su proyecto en 3 minutos.
+- El objetivo es que todos sepamos qué está haciendo cada equipo.
+- Deben estar los 3 integrantes presentes para presentar el proyecto, sino pasa para la próxima clase.
+- Elijo sólo a uno del equipo para que lo presente.
+- Sólo hablado, sin mostrar código ni diapositivas.
+- Miércoles 27 de mayo hacemos simulacro del primer parcial.
+- Lunes 1 de junio es el primer parcial.
+- Miércoles 3 de junio es el oral del primer parcial y presentación de GitHub individual.
+- El proyecto se evaluará con esta `Rúbrica para Trabajo Integrador <https://docs.google.com/spreadsheets/d/1hIZHseh0gT1SujRvPCBrctL8YzdA9tgLtqfP3rcKYeo/edit?usp=drive_link>`_ 
+- Lunes 8 de junio se presentan todos los proyectos.
+- Preparar una presentación de 10 minutos para la exposición del proyecto.
+- Usen los recursos que quieran para la presentación (diapositivas, videos, demostración en vivo, código, etc).
+
+
+
+
+
 
