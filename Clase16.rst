@@ -7,18 +7,13 @@ Registro en video de algunos temas de la clase de hoy
 
 `signals propias y promoción en QtDesigner 2025 <https://youtu.be/P4ia1YqdhX0>`_
 
-`Gestión de ventanas con Manager 2025 <https://youtu.be/lcm6lSGWPLM>`_
-
 `Enumeraciones 2025 <https://youtu.be/rRR-0_IgD0k>`_
 
 `Clase Boton <https://youtu.be/ZrvRPt5u4dw>`_
 
-
 `MD5 - AdminDB mostrarTabla - signals propias 2023 <https://youtu.be/ho4nMxIDDU8>`_
 
 `Señales propias 2022 <https://youtu.be/4aSg0uv4zdw>`_ 
-
-`Manager 2022 - https://youtu.be/smkrsoyeB68 <https://youtu.be/smkrsoyeB68>`_ 
 
 `Incorporación de enum a Login 2024 <https://youtu.be/9gk9FXsc3mE>`_ 
 
@@ -77,12 +72,6 @@ Uso de una clase propia con QtDesigner
 	
 	}
 
-
-
-Clase Manager
-=============
-
-- Encargada de administrar las conexiones principales y la visualización de todas las ventanas de la aplicación
 
 
 
@@ -175,11 +164,6 @@ Enumeraciones
 	    return a.exec();
 	}
 
-
-
-
-
-`Rúbrica para Trabajo <https://docs.google.com/spreadsheets/d/1hIZHseh0gT1SujRvPCBrctL8YzdA9tgLtqfP3rcKYeo/edit?usp=drive_link>`_ 
 
 
 
